@@ -1,0 +1,35 @@
+0726  화요일
+<출석체크>
+09:10 김영재, 남재욱, 엄태현, 한정인
+
+<공지사항>
+- 27일 수요일(내일)은 개발 들어가기. 역할분담 잘해서 병렬적으로.
+  GIT연동, DB연결, Logger설정, git ignore 설정같은거 먼저 맞추기
+- 29일 금요일 멘토링
+- Oven 복붙 불편하지만 되긴됨. 영역지정해서 그룹으로 묶은다음 클립보드로 넣고  복붙할장소에서 붙여넣기
+- ERD는 ErdCloud외의 툴 쓰는 팀은 자동으로 DDL문 만들어주는 기능있는지 확인하고 써야됨.
+  (개발하다보면 수정이 자주 일어날거기 때문에)
+- DB연결이후 다음날되면 갑자기 잘되는거안되면서 public Retrieve 뭐시기 에러뜰건데 
+  DBeaver Connection설정에서 Properties가서 allowPublicKey true로 바꿔주고
+  application.property의 DB연결하는곳에서도 publicKey allowed 코드 넣어주기
+
+<학습목표>
+- 설계 3형제 끝내기
+	<기능명세서>
+1조 통과. https://docs.google.com/spreadsheets/d/1m45QtVoeYHSxd9FAbLC70vktWpb7pmT2Dlzv5tU1eOA/edit#gid=1900868573
+2조 4차. https://docs.google.com/spreadsheets/d/1NgKfBHfHfzXg1j538HpBY_wSZg3jVN0bUqPu7uzfdKE/edit#gid=0
+3조 4차. 핵심기능 https://docs.google.com/spreadsheets/d/1Sze0aeL6km0PRG-ONjB8H_bfj-zZ_A1wz9OcmLyYKI8/edit#gid=0
+   아직 최종결과물에 대한 WHY 부족. 타겟사용자
+4조 4차. 카테고리 재분류. https://docs.google.com/spreadsheets/d/1SEq3V0YTZoTBp5HJSqfM4Xju8Vn0xkl4luxKgBTrW3U/edit#gid=0
+
+	<화면설계서>
+1조(정신건강. 취업) 통과.
+2조(미세먼지. 천체) 2차. 데이터시각화 메인페이지 통과. 예측화면 해야함
+3조(미세먼지. 식물)
+4조(대중교통. 플랫폼)
+
+	<ERD>
+1조(정신건강. 취업) 피드백줬고 개발 시작.
+2조(미세먼지. 천체)
+3조(미세먼지. 식물)
+4조(대중교통. 플랫폼)

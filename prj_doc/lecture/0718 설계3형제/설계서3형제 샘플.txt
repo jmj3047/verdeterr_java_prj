@@ -1,0 +1,14 @@
+샘플
+
+<기능명세서>
+우리조 https://docs.google.com/spreadsheets/d/1TJqSwv14YMa0aTEO33df0h_O1eGZuimSpoK_bK2AA4M/edit#gid=2117716458
+깐부해조 https://docs.google.com/spreadsheets/d/1RIF87ZyZ5JdWkERUW_UOjb-ddG2bv8fhj6Ip592p4bQ/edit?usp=sharing
+
+
+<ERD>
+우리조 이미지로 제공
+얌얌커피 이미지로 제공
+
+<화면설계서>
+깐부해조 https://ovenapp.io/project/6zhPyh9ND8D8g2Caf4YSKJFG4y4UeTZX#vGzmn
+놀이공원 https://ovenapp.io/login?url=%2Fproject%2F9uJm62Ecdb857EZElM844fGV5GWk7GWR#6VMeO
