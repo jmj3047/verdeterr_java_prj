@@ -1,4 +1,4 @@
-### verdeterr_java_prj
+## verdeterr_java_prj
 #### 자동완성 key
 - ctrl space: 자동완성
 - ctrl shift r: 파일명으로 빨리 찾기 
