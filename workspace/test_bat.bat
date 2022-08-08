@@ -1,0 +1,1 @@
+python E:\\JAVA_STUDY\\IDE_STD\\test01\\src\\test01\\EX01\\test.py %1
