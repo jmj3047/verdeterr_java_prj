@@ -1,0 +1,23 @@
+EI	SN	TF	JP
+15	10	4	7
+29	24	19	14
+43	45	33	35
+57	65	60	55
+
+총 16문제
+1 4	    Are you more impressed by:	Principles	Emotions	T	F
+2 7	    Do you tend to choose:	Rather carefully	Somewhat impulsively	J	P
+3 10	Are you more interested in:	What is actual	What is possible	S	N
+4 14	Does it bother you more having things:	Incomplete	Completed	J	P
+5 15	In your social groups do you:	Keep abreast of other's happenings	Get behind on the news	E	I
+6 19	Are you more comfortable in making:	Logical judgments	Value judgments	T	F
+7 24	Are visionaries:	somewhat annoying	rather fascinating	S	N
+8 29	In company do you:	initiate conversation	wait to be approached	E	I
+9 33	Are you more:	firm than gentle	gentle than firm	T	F
+10 35	Do you put more value on:	infinite	open-minded	J	P
+11 43	Do you prefer:	many friends with brief contact	a few friends with more lengthy contact	E	I
+12 45	Are you more interested in:	production and distribution	design and research	S	N
+13 55	Is it preferable mostly to:	make sure things are arranged	just let things happen	J	P
+14 57	When the phone rings do you:	hasten to get to it first	hope someone else will answer	E	I
+15 60	Which seems the greater error:	to be too passionate	to be too objective	T	F
+16 65	In writings do you prefer:	the more literal	the more figurative	S	N
