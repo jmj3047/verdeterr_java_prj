@@ -1,4 +1,4 @@
-## verdeterr_java_prj
+# verdeterr_java_prj
 - [team notion link](https://www.notion.so/792f10ceb8e34ad798ada7e757f10bb8)
 - [team github link](https://github.com/gonekng/VerDeTerr.git)
 #### 자동완성 key
