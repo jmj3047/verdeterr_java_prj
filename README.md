@@ -3,8 +3,15 @@
 - [team github link](https://github.com/gonekng/VerDeTerr.git)
 
 # lecture_reference
-- [spring](https://kimvampa.tistory.com/category/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/%EA%B2%8C%EC%8B%9C%ED%8C%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
-- [spring boot](https://congsong.tistory.com/category/Spring%20Boot)
+- [spring](https://kimvampa.tistory.com/183?category=843151)
+- [spring boot](https://congsong.tistory.com/16?category=749196)
+- [scikit-learn](https://runebook.dev/ko/docs/scikit_learn/modules/model_evaluation)
+- [sklearn2pmml](https://github.com/jpmml/sklearn2pmml)
+- [java-batch](https://m.blog.naver.com/nuberus/221538905885)
+- [jython](https://binshuuuu.tistory.com/289)
+- [spring-flask](https://yanoo.tistory.com/m/14)
+- [scikit-learn model into Java](https://medium.com/analytics-vidhya/using-scikit-learn-model-into-java-app-96d776b84c44)
+
 
 #### sts 자동완성 key
 - ctrl space: 자동완성
