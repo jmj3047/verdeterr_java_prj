@@ -1,6 +1,7 @@
 # verdeterr_java_prj
 - [team notion link](https://www.notion.so/792f10ceb8e34ad798ada7e757f10bb8)
 - [team github link](https://github.com/gonekng/VerDeTerr.git)
+- [시연 영상](https://www.youtube.com/watch?v=yGaFgthraUQ)
 
 # lecture_reference
 - [spring](https://kimvampa.tistory.com/183?category=843151)
